@@ -1,0 +1,31 @@
+/* تخصيص الألوان */
+body {
+    background-color: #f4f4f9; /* لون خلفية خفيف */
+    color: #333333; /* نص بلون غامق */
+}
+
+header {
+    background-color: #007bff; /* لون الأزرق المميز */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    color: #007bff; /* اللون الأزرق للروابط */
+}
+
+a:hover {
+    color: #0056b3; /* تدرج أغمق للروابط عند التحويم */
+}
+
+footer {
+    background-color: #343a40; /* لون خلفية الفوتر */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
